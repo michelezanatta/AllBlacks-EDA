@@ -6,3 +6,7 @@ This is a work of my own. I choose the dataset, how to work and how much time to
 After uploading the library I used to get the job done, I have imported the dataset and applied basic preprocessing methodologies to getting to know the dataset. Then I have proceeded to work on the EDA, and at the very end I applied a t-test to see, in a very simplistic way, if the EDA was correct.
 
 For any correction, suggestion and/or question please do not hesitate to contact me.
+
+## How to see the file
+Please, to see the file insert the URL of the file into the box at the following website https://htmlpreview.github.io/?, or click directly to the following link:
+https://htmlpreview.github.io/?https://github.com/michelezanatta/AllBlacks-EDA/blob/main/RugbyProject.html
