@@ -8,5 +8,5 @@ After uploading the library I used to get the job done, I have imported the data
 For any correction, suggestion and/or question please do not hesitate to contact me.
 
 ## How to see the file
-Please, to see the file insert the URL of the file into the box at the following website https://htmlpreview.github.io/?, or click directly to the following link:
+Please, to see the file insert the URL of the file into the box at the following website https://htmlpreview.github.io/, or click directly to the following link:
 https://htmlpreview.github.io/?https://github.com/michelezanatta/AllBlacks-EDA/blob/main/RugbyProject.html
